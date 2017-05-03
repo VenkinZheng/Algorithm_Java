@@ -1,5 +1,3 @@
-package c02;
-
 public class Learn_list {
 
 	public Learn_list() {

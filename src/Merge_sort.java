@@ -1,5 +1,3 @@
-package c02;
-
 //import java.util.*;
 
 public class Merge_sort {

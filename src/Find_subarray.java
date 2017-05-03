@@ -1,9 +1,3 @@
-package c02;
-
-//import org.junit.Test;
-
-//import c02.Find_subarray.CSub_Ret;
-
 class CSub_Ret {
 	public int left;
 	public int right;
